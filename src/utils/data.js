@@ -2,18 +2,18 @@ import { HiOutlineDesktopComputer } from "react-icons/hi";
 import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
-  {
-    name: "Website Design",
-    projects: 13,
-    icon: HiOutlineDesktopComputer,
-    bg: "#286F6C",
-  },
-  {
-    name: "Data Structures And Algorithms",
-    projects: 400,
-    icon: CiMobile1,
-    bg: "#EEC048",
-  },
+  // {
+  //   name: "Website Design",
+  //   projects: 13,
+  //   icon: HiOutlineDesktopComputer,
+  //   bg: "#286F6C",
+  // },
+  // {
+  //   name: "Data Structures And Algorithms",
+  //   projects: 400,
+  //   icon: CiMobile1,
+  //   bg: "#EEC048",
+  // },
 ];
 
 export const WhatDoIHelp = [
@@ -31,7 +31,7 @@ export const workExp = [
   },
   {
     place: "Data Structures And Algorithms.",
-    tenure: "Started - Aug 2022",
+    tenure: "Practicing regularly",
     role: "",
     detail:
     "For the past year, I've been diligently studying data structures and algorithms, developing a strong command of languages like C, C++, and Java. I've tackled numerous problem-solving challenges on platforms like LeetCode, Codeforces, and various other programming platforms."

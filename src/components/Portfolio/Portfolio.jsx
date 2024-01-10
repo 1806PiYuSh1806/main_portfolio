@@ -31,8 +31,8 @@ const Portfolio = () => {
             <a href="https://github.com/1806PiYuSh1806/gpt3-react" target="_blank">
             <motion.img variants={fadeIn("up", "tween", .7, .6)} src="/gpt3.jpg" alt="project" />
             </a>
-            <a href="https://github.com/1806PiYuSh1806/dummy_portfolio" target="_blank">
-            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="/portfolio_prev.png" alt="project" />
+            <a href="https://github.com/1806PiYuSh1806/golds_gym" target="_blank">
+            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="/Gold's_Gym_logo.svg.png" alt="project" />
             </a>
         </div>
       </div>

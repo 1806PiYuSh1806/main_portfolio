@@ -16,21 +16,6 @@ const Experties = () => {
 
 
             {/* left side */}
-            <div className={css.leftSide}>
-                {
-                    projectExperience.map((exp, i)=> {
-                        return <motion.div variants = {fadeIn("right", "tween", (i+1)*0.2, 1)} className={css.exp} key={i}>
-                            <div style={{background: exp.bg}} className="flexCenter">
-                                <exp.icon size={25} color="white"/>
-                            </div>
-                            <div>
-                                <span>{exp.name}</span>
-                                <span className='secondaryText'>{exp.projects} Variants</span>
-                            </div>
-                        </motion.div>
-                    })
-                }
-            </div>
 
 
             {/* right */}
